@@ -1,6 +1,6 @@
 # Clima CLI
 
-A Clima CLI é uma ferramenta de linha de comando (CLI) simples para obter informações climáticas de uma cidade específica. Utilizando a API da OpenWeather, a Clima CLI fornece dados como temperatura atual, sensação térmica, temperatura máxima e mínima, e descrição das condições climáticas.
+Clima CLI é uma ferramenta de linha de comando (CLI) simples para obter informações climáticas de uma cidade específica. Utilizando a API da OpenWeather, a Clima CLI fornece dados como temperatura atual, sensação térmica, temperatura máxima e mínima, e descrição das condições climáticas.
 
 ## Recursos
 

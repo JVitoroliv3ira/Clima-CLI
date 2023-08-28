@@ -14,7 +14,7 @@ var city string
 
 var rootCmd = &cobra.Command{
 	Use:   "clima",
-	Short: "A simple weather CLI",
+	Short: `Clima CLI é uma ferramenta de linha de comando (CLI) simples para obter informações climáticas de uma cidade específica. Utilizando a API da OpenWeather, a Clima CLI fornece dados como temperatura atual, sensação térmica, temperatura máxima e mínima, e descrição das condições climáticas.`,
 	Run: func(cmd *cobra.Command, args []string) {
 		apiKey := os.Getenv("OPENWEATHER_API_KEY")
 		if apiKey == "" {
